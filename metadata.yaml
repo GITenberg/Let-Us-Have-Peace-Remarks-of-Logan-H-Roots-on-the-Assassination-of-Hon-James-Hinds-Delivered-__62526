@@ -1,0 +1,28 @@
+_repo: Let-Us-Have-Peace-Remarks-of-Logan-H-Roots-on-the-Assassination-of-Hon-James-Hinds-Delivered-__62526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roots, Logan H. (Logan Holt)
+    birthdate: 1841
+    deathdate: 1893
+    gutenberg_agent_id: '51987'
+    url: http://www.gutenberg.org/2009/agents/51987
+    wikipedia: https://en.wikipedia.org/wiki/Logan_H._Roots
+description: ''
+gutenberg_issued: '2020-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62526'
+  lccn: 09012020
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hinds, James, 1833-1868'
+- !lcc 'F396'
+- GITenberg
+title: "\"Let Us Have Peace\"\r\nRemarks of Logan H. Roots on the Assassination of\
+  \ Hon. James Hinds, Delivered in the House of Representatives, Washington, D. C.,\
+  \ on Friday, January 22, 1869."
+url: http://www.gutenberg.org/ebooks/62526
