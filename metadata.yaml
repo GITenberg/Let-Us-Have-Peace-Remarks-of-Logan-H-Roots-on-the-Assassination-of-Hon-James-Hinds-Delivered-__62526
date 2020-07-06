@@ -1,5 +1,8 @@
 _repo: Let-Us-Have-Peace-Remarks-of-Logan-H-Roots-on-the-Assassination-of-Hon-James-Hinds-Delivered-__62526
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62526-h/images/cover.jpg
 creator:
   author:
     agent_name: Roots, Logan H. (Logan Holt)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51987
     wikipedia: https://en.wikipedia.org/wiki/Logan_H._Roots
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62526#Let-Us-Have-Peace-Remarks-of-Logan-H-Roots-on-the-Assassination-of-Hon-James-Hinds-Delivered-_
 gutenberg_issued: '2020-06-29'
 gutenberg_type: Text
 identifiers:
